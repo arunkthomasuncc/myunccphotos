@@ -1,0 +1,16 @@
+
+h2{
+	color: green;
+	border-bottom-color:gold;
+	width: 30%;
+	border-bottom-style: solid;
+	margin-left: 1.66%;
+	padding-bottom: 5px;
+	text-transform: uppercase;
+
+}
+img{
+	width: 30%;
+	float: left;
+	margin:1.66%;
+}
